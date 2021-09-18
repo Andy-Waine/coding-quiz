@@ -15,8 +15,22 @@ body {
     color: #d9534f;
 }
 
-btn {
-    background-color: #5bc0de;
-    color: black;
+main {
+    padding-top: 50px;
 }
 
+.good-luck {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+/* Media Queries */
+
+/* Mobile */
+@media (max-width: 480px) {
+    main {
+        padding-top: 0;
+    }
+}
