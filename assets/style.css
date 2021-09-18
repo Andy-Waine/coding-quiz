@@ -19,11 +19,18 @@ main {
     padding-top: 50px;
 }
 
+/* Used Only for id="welcome" to vertically pad content */
 .good-luck {
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
+/* Prevents All Pages from Displaying until Called Upon by script.js */
+#questions,
+#score,
+#highscore {
+    display: none;
+}
 
 
 /* Media Queries */
