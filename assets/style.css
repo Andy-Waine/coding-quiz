@@ -1,0 +1,14 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: turquoise;
+}
+
+body {
+    background-color: black;
+}
+
+btn {
+    background-color: turquoise;
+    color: black;
+}
+
