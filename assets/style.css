@@ -1,14 +1,22 @@
 *{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: turquoise;
 }
+
+
 
 body {
     background-color: black;
+    color: #5bc0de;
+    display: flex;
+    flex-direction: column;
+}
+
+.timer {
+    color: #d9534f;
 }
 
 btn {
-    background-color: turquoise;
+    background-color: #5bc0de;
     color: black;
 }
 
