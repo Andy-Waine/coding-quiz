@@ -11,6 +11,10 @@ body {
     flex-direction: column;
 }
 
+header{
+    padding-top: 20px;
+}
+
 .timer {
     color: #d9534f;
 }
