@@ -29,13 +29,6 @@ main {
     padding-bottom: 10px;
 }
 
-/* Prevents All Pages from Displaying until Called Upon by script.js */
-#questions,
-#score,
-#highscore {
-    display: none;
-}
-
 
 /* Media Queries */
 
